@@ -234,6 +234,7 @@ ul li {
 .top {
 
     height: 400px;
+    border-bottom: 1px solid white;
     
 }
 
